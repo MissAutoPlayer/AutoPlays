@@ -1,0 +1,14 @@
+D:\Tommi\Documents\My\Deve\autosharp\autosharp\bin\Release\AutoSharp.exe.config
+D:\Tommi\Documents\My\Deve\autosharp\autosharp\bin\Release\AutoSharp.exe
+D:\Tommi\Documents\My\Deve\autosharp\autosharp\bin\Release\AutoSharp.pdb
+D:\Tommi\Documents\My\Deve\autosharp\autosharp\bin\Release\EloBuddy.dll
+D:\Tommi\Documents\My\Deve\autosharp\autosharp\bin\Release\EloBuddy.Sandbox.dll
+D:\Tommi\Documents\My\Deve\autosharp\autosharp\bin\Release\EloBuddy.SDK.dll
+D:\Tommi\Documents\My\Deve\autosharp\autosharp\bin\Release\Mario`s Lib.dll
+D:\Tommi\Documents\My\Deve\autosharp\autosharp\bin\Release\Newtonsoft.Json.dll
+D:\Tommi\Documents\My\Deve\autosharp\autosharp\bin\Release\SharpDX.Direct3D9.dll
+D:\Tommi\Documents\My\Deve\autosharp\autosharp\bin\Release\SharpDX.dll
+D:\Tommi\Documents\My\Deve\autosharp\autosharp\bin\Release\SharpDX.XInput.dll
+D:\Tommi\Documents\My\Deve\autosharp\autosharp\obj\Release\AutoSharp.csprojResolveAssemblyReference.cache
+D:\Tommi\Documents\My\Deve\autosharp\autosharp\obj\Release\AutoSharp.exe
+D:\Tommi\Documents\My\Deve\autosharp\autosharp\obj\Release\AutoSharp.pdb

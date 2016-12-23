@@ -1,0 +1,2 @@
+D:\Tommi\Documents\GitHub\AutoP\Autoplayer\bin\Release\AutoSharp.exe.config
+D:\Tommi\Downloads\EB\AutoPlayer\bin\Release\AutoSharp.exe.config

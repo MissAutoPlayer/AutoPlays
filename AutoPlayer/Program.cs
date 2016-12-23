@@ -53,6 +53,7 @@ namespace AutoSharp
             Timer = Game.Time;
             Game.OnTick += Game_OnTick;
             Obj_AI_Base.OnLevelUp += LvlupSpells.Obj_AI_BaseOnOnLevelUp;
+            Events.OnGameEnd += Events_OnGameEnd;
         }
 
         public static void Init()
